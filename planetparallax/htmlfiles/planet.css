@@ -1,0 +1,233 @@
+@charset "UTF-8";
+#sun {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../sun.jpeg);
+    color: #FFFFFF;
+	background-position: center;
+	background-attachment: fixed;
+	display: table;
+}
+#suntext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+#mercury {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../mercurynasa.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#mercurytext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#Venus {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../venus.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#venustext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#earth {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../earthnasa.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#earthtext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+#mars {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../mars.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#marstext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#jupiter {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../jupiter.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display:table;
+}
+#jupitertext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#saturn {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(../saturn.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#saturntext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#uranus {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-color: #A9383A;
+    background-image: url(../uranus.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#uranustext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#neptune {
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+    background-color: #A9383A;
+    background-image: url(../Neptune.jpg);
+    color: #FFFFFF;
+    background-position: center;
+    background-attachment: fixed;
+	display: table;
+}
+#neptunetext{
+    color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0px 0px;
+	background-image: url(../galaxy.jpg);
+	
+}
+p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+h1 {
+	font-family: sans-serif;
+	font-size: 48px;
+	color: white;
+	margin: 0px;
+	text-align: center;
+	display: table-cell;
+	vertical-align: middle;
+}
+body {
+    background-color: rgba(14,10,32,1.00);	
+}
+#header {
+    color: #FFFFFF;
+    padding-top: 330px;
+    padding-bottom: 330px;
+    box-shadow: 0px 0px;
+    background-image: url(../galaxy.jpg);
+    vertical-align: center;
+    text-align: center;
+    font-family: sans-serif;
+}
+#header p {
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: left;
+}
